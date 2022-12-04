@@ -36,8 +36,10 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\LevelLoader.cs" />
      <Compile Include="Assets\MainMenu.cs" />
+     <Compile Include="Assets\DifficultySelector.cs" />
+     <Compile Include="Assets\LevelLoader.cs" />
+     <Compile Include="Assets\LevelSelector.cs" />
     <Reference Include="UnityEngine">
         <HintPath>E:/File ITS/Game Dev/Unity/2020.3.15f2/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
